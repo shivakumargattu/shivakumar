@@ -28,7 +28,7 @@ import {
          title="MagicBus"
           width="700"
           height="300"
-          src="https://webchat.botframework.com/embed/magicbushyd-bot?s=amgl52NgmCU.2niMj19_Ild6umyTT4xLLbYiHLV1RpAKcEr9nurhzG0"
+          src='https://webchat.botframework.com/embed/magicbusbot-bot?s=9uBJylqEDE8.eygprRJSJ_y9fa5s6Afz1IYgqmCCiopr3KwAAXUzLxQ'
           
           
         ></iframe>
