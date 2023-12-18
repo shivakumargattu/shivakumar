@@ -20,11 +20,8 @@ Azure AI Service <br>
 <p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
     <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
     <li>Azure App Service Hosting</li>
-    <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
 <p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
