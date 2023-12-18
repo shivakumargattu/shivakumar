@@ -15,7 +15,7 @@ Azure AI Service <br>
 1. Azure AI Language Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governamental organization(NGO).Magic Bus works with young people living in poverty,taking them from a childhood full of challenges to a life with meaningful livelihoods.</p>
+<p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governamental organization(NGO).Magic Bus works with young people living in poverty,taking them from a childhood full of challenges to a life with meaningful livelihoods.At Magic Bus, our mission is to transform the lives of underprivileged children and adults by providing them with access to quality education and sustainable employment opportunities.</p>
 <h2>Project Description</h2>
 <p align="justify"></p><br>
 <b>Key Features :</b>
