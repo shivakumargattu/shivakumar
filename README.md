@@ -5,7 +5,7 @@
 <b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> <b>https://github.com/shivakumargattu/shivakumar<br>
-<b>Industry :</b> Edu Tech<br>
+<b>Industry :</b> Edu-Tech<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
@@ -15,9 +15,9 @@ Azure AI Service <br>
 1. Azure AI Language Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governamental organization(NGO).Magic Bus works with young people living in poverty,taking them from a childhood full of challenges to a life with meaningful livelihoods.</p>
 <h2>Project Description</h2>
-<p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governamental organization(NGO).This web application is built using React.js and TailwindCSS,combining the efficiency of a robust JavaScript library with the flexibility and utility-first approach of a modern CSS framework.</p><br>
+<p align="justify"></p><br>
 <b>Key Features :</b>
 <ul>
     <li>User-Friendly Interface</li>
