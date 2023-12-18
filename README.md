@@ -58,9 +58,15 @@ Azure AI Service <br>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
+<p align="justify">The core mission of Magic Bus is to create a positive impact on
+the lives of individuals and communities, focusing on empowerment,
+education, and social development. Through this web platform, the NGO
+aims to connect with a wider audience, share their initiatives, and
+encourage support for their various programs.
+</p>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
-<p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>As we finish, Magic Bus is more than an NGO; it's a catalyst for change. By investing in education and creating avenues for sustainable livelihoods, we empower communities to break free from the chains of poverty and build a better tomorrow. Together, we are transforming lives, one child and one family at a time.
+
+Join us on this journey of empowerment, where the magic of education and the promise of employment converge to create a future filled with possibilities. At Magic Bus, we believe in the inherent potential of every individual, and we are committed to unlocking a world of opportunities for those who need it most.</b>
 </p> <br>
 </h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
