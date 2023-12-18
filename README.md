@@ -12,7 +12,7 @@ Core Azure Services : <br>
 1. Azure App Service <br>
 2. Azure Static Web App <br> <br>
 Azure AI Service <br>
-1. Azure AI Translator Service
+1. Azure AI Language Service
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
