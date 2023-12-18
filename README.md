@@ -1,2 +1,2 @@
 ### `Magic Bus`
-*** **Magic Bus**
+**Magic Bus**
