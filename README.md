@@ -12,8 +12,8 @@ Core Azure Services : <br>
 1. Azure App Service <br>
 2. Azure Static Web App <br> <br>
 Azure AI Service <br>
-1. Azure AI Language Service
-2. 
+1. Azure AI Language Service <br>
+2. Azure AI 
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governamental organization(NGO).Magic Bus works with young people living in poverty,taking them from a childhood full of challenges to a life with meaningful livelihoods.At Magic Bus, our mission is to transform the lives of underprivileged children and adults by providing them with access to quality education and sustainable employment opportunities.</p>
