@@ -33,7 +33,7 @@ Azure AI Services: <br>
 <h2>Azure AI Service</h2>
 <b>Azure AI-Language Service:</b><br><br><p align="justify">Azure AI Language Service is a comprehensive suite of natural language processing tools by Microsoft. It empowers developers to incorporate capabilities like text analysis, sentiment analysis, language understanding, and translation into their applications. Leveraging state-of-the-art machine learning models, it facilitates advanced language processing for improved user experiences.
 </p>
-![application insihts](https://github.com/shivakumargattu/shivakumar/assets/121631767/a1a85cfe-bad6-47cc-9749-08d8dfb93ee7)
+<img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/a1a85cfe-bad6-47cc-9749-08d8dfb93ee7"/>
 
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and personal stories.</p>
