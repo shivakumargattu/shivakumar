@@ -55,8 +55,6 @@ Azure AI Services: <br>
 <b>Description:</b><p align="justify">Here I am attaching the final working website's screenshot for reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">The core mission of Magic Bus is to create a positive impact on
@@ -70,4 +68,3 @@ encourage support for its various programs.
 
 Join us on this journey of empowerment, where the magic of education and the promise of employment converge to create a future filled with possibilities. At Magic Bus, we believe in the inherent potential of every individual, and we are committed to unlocking a world of opportunities for those who need it most.</b>
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
