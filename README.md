@@ -34,6 +34,8 @@ Azure AI Services: <br>
 
 <h3>Azure App Service</h3>
 <b>Description:</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
+<img alt="app" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/5cf679dd-ea38-466f-b49d-64962d0a34a7"/>
+
 <img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/ad2bfbfc-1fe9-49bc-b3c7-8905d3d67460"/>
 
 
@@ -76,6 +78,9 @@ Azure AI Services: <br>
 <b>Description:</b><p align="justify">Here I am attaching the final working website's screenshot for reference.</p>
 
 <img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/a3c35542-74b1-41c6-a747-08bca05719b9"/>
+<img alt="azure" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/8fd6db0d-5844-4c96-9b5a-30f0279df64f"/>
+<img alt="azureside" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/6d6936e2-168a-4563-b786-1cdf100aa7e3"/>
+
 <img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/77ad7fb2-a5bf-4593-98e2-41bdeb87ab22"/>
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/dda747fa-7a14-4252-a98d-7e7c2c264de7"/>
 
