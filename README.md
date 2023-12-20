@@ -72,10 +72,9 @@ Azure AI Services: <br>
 <h3>Working Live Project Display</h3>
 <b>Description:</b><p align="justify">Here I am attaching the final working website's screenshot for reference.</p>
 
-<img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/ac04cdf9-e586-42e3-acbd-14131c2c82ee"/>
+<img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/77ad7fb2-a5bf-4593-98e2-41bdeb87ab22"/>
+<img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/a3c35542-74b1-41c6-a747-08bca05719b9"/>
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/dda747fa-7a14-4252-a98d-7e7c2c264de7"/>
-<img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/77ad7fb2-a5bf-4593-98e2-41bdeb87ab22/>
-<img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/a3c35542-74b1-41c6-a747-08bca05719b9/>
 
 
 <h2>Final Project Statement</h2>
