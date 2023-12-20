@@ -30,6 +30,13 @@ Azure AI Services: <br>
 <b>Azure App Service:</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
 <b>Azure static web app:</b><br><p align="justify">Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based on code changes.</p>
+
+
+<h3>Azure App Service</h3>
+<b>Description:</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
+<img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/ad2bfbfc-1fe9-49bc-b3c7-8905d3d67460"/>
+
+
 <h2>Azure AI Service</h2>
 <b>Azure AI-Language Service:</b><br><br><p align="justify">Azure AI Language Service is a comprehensive suite of natural language processing tools by Microsoft. It empowers developers to incorporate capabilities like text analysis, sentiment analysis, language understanding, and translation into their applications. Leveraging state-of-the-art machine learning models, it facilitates advanced language processing for improved user experiences.
 </p>
@@ -64,10 +71,6 @@ Azure AI Services: <br>
 
 <img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/a1a85cfe-bad6-47cc-9749-08d8dfb93ee7"/>
 
-<h2>Screenshots</h2>
-<h3>Azure App Service</h3>
-<b>Description:</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/ad2bfbfc-1fe9-49bc-b3c7-8905d3d67460"/>
 
 <h3>Working Live Project Display</h3>
 <b>Description:</b><p align="justify">Here I am attaching the final working website's screenshot for reference.</p>
