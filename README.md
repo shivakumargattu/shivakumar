@@ -31,7 +31,8 @@ Azure AI Services: <br>
 
 <b>Azure static web app:</b><br><p align="justify">Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based on code changes.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI-Language Service:</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI-Language service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI-Language Service:</b><br><br><p align="justify">Azure AI Language Service is a comprehensive suite of natural language processing tools by Microsoft. It empowers developers to incorporate capabilities like text analysis, sentiment analysis, language understanding, and translation into their applications. Leveraging state-of-the-art machine learning models, it facilitates advanced language processing for improved user experiences.
+</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and personal stories.</p>
 
