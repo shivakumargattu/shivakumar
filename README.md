@@ -69,9 +69,6 @@ Azure AI Services: <br>
 <b>Description:</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
 <img alt="imges" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/ad2bfbfc-1fe9-49bc-b3c7-8905d3d67460"/>
 
-<h3>Azure AI Translator Service</h3>
-<b>Description:</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description:</b><p align="justify">Here I am attaching the final working website's screenshot for reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
