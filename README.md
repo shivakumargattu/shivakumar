@@ -34,16 +34,19 @@ Azure AI Services: <br>
 <b>Azure AI-Language Service:</b><br><br><p align="justify">Azure AI Language Service is a comprehensive suite of natural language processing tools by Microsoft. It empowers developers to incorporate capabilities like text analysis, sentiment analysis, language understanding, and translation into their applications. Leveraging state-of-the-art machine learning models, it facilitates advanced language processing for improved user experiences.
 </p>
 
+<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/1f2e87b3-58db-4435-bb9f-c26040cfa22e"/>
+
+<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/7d240474-eba3-4cd1-9512-bfce8db0b3e5"/>
  <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/0bf2b46a-cd7b-4e37-b143-77bddd1fac73"/>
-<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/b17908a3-fe80-4141-91e0-5fd1be652808"/>
+ 
+<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/f26e9762-8b9b-4784-9bb7-6921f2e8e7fc"/>
+
+<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/8258fe1b-ee6d-49d2-a698-0ea7332f8478"/>
+
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/e3a9e5ce-7eb2-4041-a298-678a00ddfc62"/>
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/33976c8d-7141-42ea-8d39-431dc5a12acd"/>
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/dfda16f2-b9f6-481a-86a4-6168482f8c66"/>
 
-<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/8258fe1b-ee6d-49d2-a698-0ea7332f8478"/>
-<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/f26e9762-8b9b-4784-9bb7-6921f2e8e7fc"/>
-<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/7d240474-eba3-4cd1-9512-bfce8db0b3e5"/>
-<img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/1f2e87b3-58db-4435-bb9f-c26040cfa22e"/>
 
   
 <h2>Other Azure Technologies / Services</h2>
