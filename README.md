@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> <b>https://wonderful-flower-0acd04b10.4.azurestaticapps.net/ <br>
-<b>Demo Video URL :</b><b>https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
+<b>Demo Video URL :</b> <b>https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> <b>https://github.com/shivakumargattu/shivakumar<br>
 <b>Industry :</b><b> Edu-Tech<br>
 <h2>Azure Services Used</h2>
