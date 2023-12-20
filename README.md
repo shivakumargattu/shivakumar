@@ -2,7 +2,7 @@
 <h2>Project Title:</h2><h1>MAGIC BUS</h1>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> <b>https://wonderful-flower-0acd04b10.4.azurestaticapps.net/ <br>
+<b>Project Demo URL :</b> <b>https://nice-pond-021cfb310.4.azurestaticapps.net/ <br>
 <b>Demo Video URL :</b> <b>https://youtu.be/b4OKUocOMDs <br>
 <b>Github Repository URL :</b> <b>https://github.com/shivakumargattu/shivakumar<br>
 <b>Industry :</b><b> Edu-Tech<br>
