@@ -83,7 +83,8 @@ Azure AI Services: <br>
 
 <img alt="website" src="https://github.com/shivakumargattu/shivakumar/assets/121631767/77ad7fb2-a5bf-4593-98e2-41bdeb87ab22"/>
 <img src="https://github.com/shivakumargattu/shivakumar/assets/121631767/dda747fa-7a14-4252-a98d-7e7c2c264de7"/>
-
+<h2>Resource Visualizer </h2>
+<img alt="visializer src="https://github.com/shivakumargattu/shivakumar/assets/121631767/02a65190-987e-4e86-aac6-bda55ab744f9"/>
 
 <h2>Final Project Statement</h2>
 <p align="justify">The core mission of Magic Bus is to create a positive impact on
