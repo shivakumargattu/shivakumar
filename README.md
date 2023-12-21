@@ -11,7 +11,7 @@
 Core Azure Services: <br>
 1. Azure App Service <br>
 2. Azure Static Web App <br>
-3. Azure AI Monitor<br> <br>
+3. Azure Monitor<br> <br>
 Azure AI Services: <br>
 1. Azure AI-Language Service <br>
 2. Azure AI BOT
