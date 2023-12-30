@@ -1,8 +1,12 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 <h2>Project Title:</h2><h1>MAGIC BUS</h1>
-<br>
+<br/>
 <h2><b><u>Roles</u></b></h2>
-<h3><u>Shiva Kumar Gattu :</u></h3> created website and manged the website using React.JS,Tailwind CSS,CSS,HTML.
+<h3><u>1.Shiva Kumar Gattu :</u></h3> created website and manged the website using React.JS,Tailwind CSS,CSS,HTML.
+<h3>2.Giri Chandan Reddy Chapala</h3> created a AI Azure Service(chatbot) and attached to the Magic Bus Website.
+<h3>3.Saranya Allam</h3> deployed the Magic Bus website using App Service and Static Web App in the Azure Portal.
+<h3>4.Annapurna Banda</h3> done entire process of debugging and content collection of the project.
+<br/>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> <b>https://nice-pond-021cfb310.4.azurestaticapps.net/ <br>
 <b>Demo Video URL :</b> <b>https://youtu.be/b4OKUocOMDs <br>
