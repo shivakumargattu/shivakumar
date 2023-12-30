@@ -1,6 +1,8 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 <h2>Project Title:</h2><h1>MAGIC BUS</h1>
 <br>
+<h2><b><u>Roles</u></b></h2><br/>
+<h3>Shiva Kumar Gattu :</h3> created website and manged the website using React.JS,Tailwind CSS,CSS,HTML.
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> <b>https://nice-pond-021cfb310.4.azurestaticapps.net/ <br>
 <b>Demo Video URL :</b> <b>https://youtu.be/b4OKUocOMDs <br>
@@ -16,9 +18,6 @@ Azure AI Services: <br>
 1. Azure AI-Language Service <br>
 2. Azure AI BOT
 </h3>
-    <h3><b>Roles</b></h3>
-    
-    
 <h2>Problem Statement</h2>
 <p align="justify">"Magic Bus" is a transformative project that leverages the power of technology to support the noble cause of a non-governmental organization(NGO). Magic Bus works with young people living in poverty, taking them from a childhood full of challenges to a life with meaningful livelihoods. At Magic Bus, our mission is to transform the lives of underprivileged children and adults by providing them with access to quality education and sustainable employment opportunities.</p>
 <h2>Project Description</h2>
