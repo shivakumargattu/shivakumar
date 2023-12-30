@@ -4,8 +4,8 @@
 <h2><b><u>Roles</u></b></h2>
 <h3><u>1.Shiva Kumar Gattu :</u></h3> created website and manged the website using React.JS,Tailwind CSS,CSS,HTML.
 <h3><u>2.Giri Chandan Reddy Chapala :</u></h3> created a Azure AI Service(chatbot) and attached that Azure AI Service to the Magic Bus Website.
-<h3><u>3.Saranya Allam :</u></h3> deployed the Magic Bus website using App Service and Static Web App in the Azure Portal.
-<h3><u>4.Annapurna Banda :</u></h3> done entire process of debugging and content collection of the project.
+<h3><u>3.Annapurna:</u></h3> deployed the Magic Bus website using App Service and Static Web App in the Azure Portal.
+<h3><u>4.Saranya Allam :</u></h3> done entire process of debugging and content collection of the project.
 <br/>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> <b>https://nice-pond-021cfb310.4.azurestaticapps.net/ <br>
